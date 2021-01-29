@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rsn:
+  - apiVersion: v2
+    appVersion: "0.1"
+    created: "2021-01-29T11:41:25.763614701+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 8bee0d8c7d08a3573bf095f800bc003a91c0ce43336ec603a5e842ff54c5e580
+    name: rsn
+    type: application
+    urls:
+    - https://kantobro.github.io/helm/rsn-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-29T11:41:25.763065662+01:00"
